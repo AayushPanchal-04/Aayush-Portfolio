@@ -2289,6 +2289,7 @@ textarea.form-input::-webkit-resizer {
 
   .avatar-box img {
     width: 150px;
+    border-radius: 7px;
   }
 
   .info-content .name {
